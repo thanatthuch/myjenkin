@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: dimensional-modelling
+Version: 1.0.0
+Author: DevSkiller
+Author-email: support@devskiller.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Provides-Extra: dev
+Requires-Dist: black; extra == "dev"
