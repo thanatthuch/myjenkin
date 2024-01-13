@@ -8,8 +8,8 @@ requirements = [
 setup(
     name="dimensional-modelling",
     version="1.0.0",
-    author="DevSkiller",
-    author_email="support@devskiller.com",
+    author="thanatthuch",
+    author_email="thanatthuch.cu@gmail.com.com",
     packages=find_packages(),
     package_data={"app": ["tables/*.csv"], "verify_pack": ["tables/*.csv"]},
     install_requires=["numpy", "pandas"],
